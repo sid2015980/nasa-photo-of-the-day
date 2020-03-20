@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import IotdCard from "./components/IotdCard"
-
+// import { } from "reactstrap"
 
 function App() {
   return (
